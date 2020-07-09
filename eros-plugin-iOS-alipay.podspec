@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "eros-plugin-iOS-alipay"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "适用于weex的支付宝支付插件."
   s.homepage     = "https://github.com/LiHuiZai"
   s.license      = "MIT"
